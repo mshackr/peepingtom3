@@ -8,9 +8,9 @@ Update: the original script is no longer maintained. You are encouraged to explo
 - Upgraded phantomjs library (to run on apple silicon)
 
 ## Quick start
-unpack phantomjs-2.1.1-macosx.zip (or get another one for your platform https://phantomjs.org/download.html)
-move bin/phantomjs to main directory #unzipped, it is too big to commit
-python3 ./peepingtom3.py -p -i urls.txt
+- unpack phantomjs-2.1.1-macosx.zip (or get another one for your platform https://phantomjs.org/download.html)
+- move bin/phantomjs to main directory #unzipped, it is too big to commit
+- python3 ./peepingtom3.py -p -i urls.txt
 
 ## License
 This project is licensed under the GNU General Public License (GPL), in accordance with the original license.
